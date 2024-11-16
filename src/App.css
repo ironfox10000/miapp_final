@@ -1,0 +1,15 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    color: #1e40af; /* Este es el color azul que usaste en el título */
+  }
+  
+  p {
+    color: #374151; /* Gris suave para el texto */
+  }
+  

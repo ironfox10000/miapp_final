@@ -1,0 +1,16 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de configuración local
+.env
+.nvmrc
+
+# Archivos de construcción
+dist/
+.next/
+.nuxt/
+out/
+
+# Archivos del editor
+.vscode/
+
